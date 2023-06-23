@@ -5,4 +5,3 @@ This editing has done in VS code.
 created new branch s2
 
 switched to branch s1 and data modified.
-
