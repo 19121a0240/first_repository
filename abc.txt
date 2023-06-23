@@ -1,4 +1,8 @@
 I am editing this txt file after commiting to check the status 
 of this file by using git status command.
+
 This editing has done in VS code.
 created new branch s2
+
+switched to branch s1 and data modified.
+
